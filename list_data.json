@@ -1,22 +1,47 @@
 {
-	"movies": [
+	"My Favorite YouTube Channels": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"(in no particular order)"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Channel Name": "Apartment Therapy",
+			"Topic(s)": "Interior design"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Channel Name": "Pick Up Limes",
+			"Topic(s)": "Plant-based recipes"
+		},
+		{
+			"Channel Name": "Mina Le",
+			"Topic(s)": "Fashion history and social commentary"
+		},
+		{
+			"Channel Name": "Khadija Mbowe",
+			"Topic(s)": "Social commentary"
+		},
+		{
+			"Channel Name": "COLORS",
+			"Topic(s)": "Visual music platform"
+		},
+		{
+			"Channel Name": "leena norms",
+			"Topic(s)": "Social commentary"
+		},
+		{
+			"Channel Name": "TheSorryGirls",
+			"Topic(s)": "Interior design and DIY ideas"
+		},
+		{
+			"Channel Name": "Vox",
+			"Topic(s)": "News"
+		},
+		{
+			"Channel Name": "Dirty School of Skate",
+			"Topic(s)": "Roller skating tips and tricks"
+		},
+		{
+			"Channel Name": "Marty Music",
+			"Topic(s)": "Guitar instruction"
 		}
 	]
 }
